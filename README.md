@@ -22,7 +22,7 @@ The goal of this project is to build a **consolidated & interactive Power BI rep
 - **Excel** (sample datasets provided per continent)  
 
 ## 📷 Dashboard Snapshots
-*<img width="1335" height="758" alt="image" src="https://github.com/user-attachments/assets/11414d5e-4c65-4430-a3d8-fb0e19ac9a0a" />
+<img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/e0c2f1d5-d29a-4a59-a315-0a24041f7a2a" />
 
 
 ## 🚀 How to Use
